@@ -1,0 +1,17 @@
+{
+    "warehouses": {
+        "1234": {
+            "stocks": {
+                "stock1": 10,
+                "stock2": 5
+            }
+        },
+        "5678": {
+            "stocks": {
+                "stock3": 3,
+                "stock4": 7
+            }
+        }
+    },
+    "globalStocks": 0
+}
